@@ -5,11 +5,11 @@
 
 ## 快速安装
 
-1. 克隆代码 
+1. 下载脚本
     
 ```
-  git clone https://github.com/able8/DDNS-noip.git
-
+  wget https://raw.githubusercontent.com/able8/DDNS/master/noipddns.sh
+  chmod +x noipddns.sh
 ```
 
 
